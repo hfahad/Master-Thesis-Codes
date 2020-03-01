@@ -1,1 +1,1 @@
-# MAster-Thesis-Codes
+# Master-Thesis-Codes
