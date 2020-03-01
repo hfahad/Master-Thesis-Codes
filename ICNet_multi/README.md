@@ -1,4 +1,4 @@
-# Inverse-Consistent Deep Networks for Unsupervised Deformable Image Registration
+# Inverse-Consistent Deep Networks for Unsupervised Deformable Image Registration For Multi Modal
 
 Pytorch implementation for Inverse-Consistent Deep Networks for Unsupervised Deformable Image Registration.
 
@@ -10,7 +10,6 @@ This package includes 3D deformable image registration tool for brain images. Th
 
 # Prerequisites
 
-Linux python 2.7 NVIDIA GPU + CUDA CuDNN
 
 Install pytorch (0.4.0 or 0.4.1) and dependencies from http://pytorch.org/ 
 
